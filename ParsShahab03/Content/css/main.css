@@ -20,7 +20,10 @@ body {
   color:#4e4e4e;
   line-height: 22px;
 }
-
+.logo {
+	background-color:#fff;
+	border-radius:50%;
+}
 h1,
 h2,
 h3,
