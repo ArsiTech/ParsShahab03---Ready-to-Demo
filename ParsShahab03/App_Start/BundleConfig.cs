@@ -26,23 +26,23 @@ namespace ParsShahab03
 			//bundles.Add(new StyleBundle("~/Content/css").Include(
 			//		  "~/Content/bootstrap.css",
 			//		  "~/Content/site.css"));
-			bundles.Add(new StyleBundle("~/Content/css").Include(
-				"~/Content/css/bootstrap.min.css",
-				"~/Content/css/bootstrap-rtl.min.css",
-				"~/Content/css/font-awesome.css",
-				"~/Content/css/animate.min.css",
-				"~/Content/css/prettyPhoto.css",
-				"~/Content/css/main.css",
-				"~/Content/css/responsive.css"
-				));
-			bundles.Add(new ScriptBundle("~/Scripts").Include(
-				"~/Scripts/js/jquery.js",
-				"~/Scripts/js/bootstrap.min.js",
-				"~/Scripts/js/jquery.prettyPhoto.js",
-				"~/Scripts/js/jquery.isotope.min.js",
-				"~/Scripts/js/main.js",
-				"~/Scripts/js/wow.min.js"
-				));
+			//bundles.Add(new StyleBundle("~/Content/css").Include(
+			//	"~/Content/css/bootstrap.min.css",
+			//	"~/Content/css/bootstrap-rtl.min.css",
+			//	"~/Content/css/font-awesome.css",
+			//	"~/Content/css/animate.min.css",
+			//	"~/Content/css/prettyPhoto.css",
+			//	"~/Content/css/main.css",
+			//	"~/Content/css/responsive.css"
+			//	));
+			//bundles.Add(new ScriptBundle("~/Scripts").Include(
+			//	"~/Scripts/js/jquery.js",
+			//	"~/Scripts/js/bootstrap.min.js",
+			//	"~/Scripts/js/jquery.prettyPhoto.js",
+			//	"~/Scripts/js/jquery.isotope.min.js",
+			//	"~/Scripts/js/main.js",
+			//	"~/Scripts/js/wow.min.js"
+			//	));
 		}
 
 	}
